@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// 4.0
+// 5.1!
 
 func main() {
   fmt.Println("This is version", VERSION)
