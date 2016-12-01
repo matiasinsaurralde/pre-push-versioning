@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// abcd
+// 2.8?
 
 func main() {
   fmt.Println("This is version", VERSION)
